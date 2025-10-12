@@ -1,5 +1,9 @@
 # Integrate MCP with Copilot
 
+> **📢 Looking for Step 4 Instructions?**  
+> Due to a workflow issue, Step 4 instructions were not posted to Issue #1.  
+> **➡️ [View Step 4 Instructions Here](STEP4-INSTRUCTIONS.md)**
+
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey jbarbosa26!
